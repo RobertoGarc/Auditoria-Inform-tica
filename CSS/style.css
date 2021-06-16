@@ -265,6 +265,10 @@ main .nosotros .nosotros-item1 .nosotros-text {
   width: 45%;
 }
 
+main .nosotros .nosotros-item1 .nosotros-text p {
+  text-align: justify;
+}
+
 main .nosotros .nosotros-item1 .nosotros-text span {
   display: block;
   width: 150px;
