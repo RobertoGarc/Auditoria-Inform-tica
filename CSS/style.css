@@ -22,7 +22,7 @@ a {
 /*HEADER*/
 header nav {
   display: flex;
-  width: 100%;
+  width: 100vw;
   height: 100px;
   justify-content: space-between;
   position: fixed;
